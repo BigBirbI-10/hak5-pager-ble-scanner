@@ -1,6 +1,6 @@
 #!/bin/bash
 # Title: BLE Scanner
-# Author: Mike
+# Author: BigBirbI-10
 # Description: Scans for Bluetooth Low Energy devices
 # Version: 1.0
 
